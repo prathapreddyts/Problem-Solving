@@ -10,9 +10,7 @@ public class SqrtofXLC69 {
         int ans = 0;
         while(start <= end){
             int mid = start + (end-start)/2;
-
-            //instead of mid*mid we are giving x/mid to tackle overflow of integer range when multiplying with bigger numbers
-            if(mid <= x/mid){
+            if(mid <= x/mid){//to avoid storage capacity problem
                 ans = mid;
                 start = mid + 1;
             }else{
