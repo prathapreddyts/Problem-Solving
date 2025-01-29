@@ -26,7 +26,8 @@ public class MinNumDaysToMakeMBouquetsLC1482 {
 
     private boolean canMakeBouquets(int[] bloomDay, int m, int k, int days) {
         int bouquets = 0, flowers = 0;
-        for (int bloom : bloomDay) {
+        for (int bloom : bloomDay)
+        {
             if (bloom <= days) {
                 flowers++;
                 if (flowers == k) {
