@@ -1,7 +1,7 @@
 package com.binarysearch;
 
 public class MedianOfSortedArrays {
-    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+    public double median(int[] nums1, int[] nums2) {
         if (nums2.length < nums1.length) {
             return findMedian(nums2, nums1);
         }

@@ -3,7 +3,7 @@ package com.binarysearch;
 import java.util.Arrays;
 
 public class AggressiveCows {
-    public static int maxMinDistance(int[] stalls, int cows) {
+    public static int aggressiveCows(int[] stalls, int cows) {
         Arrays.sort(stalls);
         int start = 1;
         int res = -1;
