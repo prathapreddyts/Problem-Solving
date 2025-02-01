@@ -24,7 +24,6 @@ public class FindHowManyTimesArrayRotated {
                 end = mid - 1;
             }
         }
-
         return 0;
     }
 }
