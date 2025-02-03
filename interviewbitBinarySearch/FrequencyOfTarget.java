@@ -1,4 +1,4 @@
-package interviewbit;
+package interviewbitBinarySearch;
 
 public class FrequencyOfTarget {
     public static void main(String[] args) {

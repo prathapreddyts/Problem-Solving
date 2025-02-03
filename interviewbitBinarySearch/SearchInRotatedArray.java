@@ -1,4 +1,4 @@
-package interviewbit;
+package interviewbitBinarySearch;
 
 import java.util.List;
 
