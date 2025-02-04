@@ -1,4 +1,4 @@
-package com.binarysearch;
+package tufbinarysearchlist;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.binarysearch;
+package tufbinarysearchlist;
 
 public class MedianOfSortedArrays {
     public double median(int[] nums1, int[] nums2) {

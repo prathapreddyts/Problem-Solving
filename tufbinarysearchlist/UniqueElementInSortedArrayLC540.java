@@ -1,4 +1,4 @@
-package com.binarysearch;
+package tufbinarysearchlist;
 
 public class UniqueElementInSortedArrayLC540 {
     public int singleNonDuplicate(int[] nums) {

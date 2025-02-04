@@ -1,4 +1,4 @@
-package com.binarysearch;
+package tufbinarysearchlist;
 
 public class PaintersPartition {
     public int paintWalls(int[] paintBoards, int painters, int paintingUnitTime) {

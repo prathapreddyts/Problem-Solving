@@ -1,6 +1,4 @@
-package com.binarysearch;
-
-import java.util.List;
+package tufbinarysearchlist;
 
 public class GasStationDistance {
     public static double minimiseMaxDistance(int[] stations, int K) {

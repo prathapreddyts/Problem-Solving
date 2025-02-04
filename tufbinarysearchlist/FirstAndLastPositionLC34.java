@@ -1,4 +1,4 @@
-package com.binarysearch;
+package tufbinarysearchlist;
 
 public class FirstAndLastPositionLC34 {
     public int[] searchRange(int[] nums, int target) {

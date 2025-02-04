@@ -1,4 +1,4 @@
-package com.binarysearch;
+package tufbinarysearchlist;
 
 public class SqrtofXLC69 {
     public int mySqrt(int x) {

@@ -1,4 +1,4 @@
-package com.binarysearch;
+package tufbinarysearchlist;
 
 public class SearchInRotatedArrayLC33 {
     public int search(int[] nums, int k) {

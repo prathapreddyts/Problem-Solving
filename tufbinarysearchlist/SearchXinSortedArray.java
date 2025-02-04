@@ -1,4 +1,4 @@
-package com.binarysearch;
+package tufbinarysearchlist;
 
 public class SearchXinSortedArray {
     public int search(int[] nums, int target) {

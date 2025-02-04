@@ -1,4 +1,4 @@
-package com.binarysearch;
+package tufbinarysearchlist;
 
 public class FindThePeakLC162 {
     public int findPeakElement(int[] nums) {

@@ -1,6 +1,4 @@
-package com.binarysearch;
-
-import java.rmi.dgc.VMID;
+package tufbinarysearchlist;
 
 public class BooksAllocation {
     public static int findPages(int[] books, int students) {

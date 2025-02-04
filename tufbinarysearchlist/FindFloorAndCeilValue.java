@@ -1,4 +1,4 @@
-package com.binarysearch;
+package tufbinarysearchlist;
 
 public class FindFloorAndCeilValue {
     public int[] getFloorAndCeil(int[] nums, int x) {

@@ -1,4 +1,4 @@
-package com.binarysearch;
+package tufbinarysearchlist;
 
 public class MinNumDaysToMakeMBouquetsLC1482 {
     public int minDays(int[] bloomDay, int m, int k) {

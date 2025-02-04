@@ -1,4 +1,4 @@
-package com.binarysearch;
+package tufbinarysearchlist;
 
 public class SearchInsertPositionTUF {
     public int searchInsert(int[] nums, int target) {
